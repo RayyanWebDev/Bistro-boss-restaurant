@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Footer */
+.footer-clr {
+  background-color: rgb(32, 41, 54);
+}
+.footer-clr2 {
+  background-color: rgb(18, 24, 38);
+}
+
+/* Order */
+.order-text {
+  color: #d99904;
+}
